@@ -105,3 +105,40 @@ Built a professional dashboard in Power BI to present findings:
 1. Clone the repo
 2. Open `fraud_detection.ipynb` or `fraud.py`
 3. Install dependencies:
+pip install pandas numpy matplotlib seaborn scikit-learn xgboost imbalanced-learn
+
+yaml
+Copy
+Edit
+4. Run the notebook to train models and generate `fraud_results.csv`
+
+### 📊 Power BI Dashboard
+1. Open `fraud_dashboard.pbix` in Power BI Desktop
+2. Load `fraud_results.csv` into the model
+3. Explore the interactive dashboard
+
+
+## ✅ Project Outcomes
+
+- Achieved >95% precision and recall using Random Forest
+- Built interpretable & stakeholder-ready visuals in Power BI
+- Combined data science and BI skills to address real-world fraud detection
+
+---
+
+## 🚀 Future Improvements
+
+- Hyperparameter tuning with GridSearchCV
+- Add neural network (e.g., simple MLP)
+- Automate data refresh for live dashboards
+- Deploy as a Streamlit app
+
+---
+
+## 👤 Author
+
+**Sumit Sarkar**  
+📍 London, UK  
+🎓 MSc Finance  
+📧 [sumitsarkar2222@gmail.com](mailto:sumitsarkar2222@gmail.com)  
+🔗 [linkedin.com/in/mitsusarkar](https://linkedin.com/in/mitsusarkar)
